@@ -12,4 +12,4 @@
   display: inline-block;
   }
 }
-@media only screen and body
+@media only screen (max-width:900px)
