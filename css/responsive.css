@@ -1,7 +1,1 @@
-.wrapper {
-  width: 1108px;
-}
-
-@media only screen and (max-width: 980px) {
-  .wrapper { width: 90%; }
-}
+@media 
