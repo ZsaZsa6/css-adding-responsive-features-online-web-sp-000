@@ -15,14 +15,14 @@
 
 @media only screen (max-width:900px){
   body {font-size: 85%;
-  }
+}
 #logo h1 {
   height: 35px;
   width: 35px;
 }
 #logo h2 {
   font-size: 2.2em
-  }
+}
 #social a {
   top: 72px;
 }
@@ -30,5 +30,5 @@
    -moz-column-count: 2;
    -webkit-column-count: 2;
    column-count: 2;
- }
+  }
 }
