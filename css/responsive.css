@@ -11,7 +11,7 @@
 #social a {
   display: inline-block;
   }
-}
+
 @media only screen (max-width:900px){
   body {font-size: 85%;
   }
@@ -20,6 +20,7 @@
   width: 35px;
 }
 #logo h2 {
-  
-}
+  font-size: 2.2em
+  }
+
 }
